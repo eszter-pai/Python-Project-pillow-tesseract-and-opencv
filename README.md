@@ -16,5 +16,6 @@ The final capstone of Python 3 Programming Specialization offered by University 
 - use PIL to composite images together into contact sheets.
 
 Each page of the newspapers is saved as a single PNG image in a file called images.zip. These newspapers are in english, and contain a variety of stories, advertisements and images. 
-The follwoing is the expect output of the search for the string 'Mark'
+The follwoing is the expect output of the search for the string 'Mark'<p>
+
 ![This is an image](expected_large_project.png)
