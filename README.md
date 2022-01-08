@@ -1,5 +1,6 @@
 # Python-Project-pillow-tesseract-and-opencv
 Face Detection | Text Extraction from Image| Pillow | OpenCV | Pytesseract
+</p>
 The final capstone of Python 3 Programming Specialization offered by University of Michigan via Coursera.
 
 
